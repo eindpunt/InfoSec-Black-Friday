@@ -112,7 +112,7 @@ Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
 https://engineer.cloudsecbooks.com/ \
-40% off with code: CYBERNOVEMBER25 \
+40% off with code: CYBERNOVEMBER25
 
 ## Hardware
 
