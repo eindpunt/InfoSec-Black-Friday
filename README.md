@@ -56,11 +56,11 @@ https://belkasoft.com/training-bundles \
 
 **Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
 https://academy.bluraven.io/blackfriday2025 \
-35% off with code: BFCM25 \
+35% off with code: BFCM25
 
 **DNS for Developers** - Everything developers should know about DNS. \
 https://nslookup.io/dns-course/ \
-66% off the course and certification \
+66% off the course and certification
 
 **HackTricks Training** \
 https://training.hacktricks.xyz \
@@ -72,9 +72,9 @@ https://learn.hexordia.com/ \
 30% off all courses with code: BF35  \
 Deal ends: 2nd December
 
-**LetsDefend** - Blue Team Training
+**LetsDefend** - Blue Team Training \
 https://app.letsdefend.io/pricing/ \
-50% off on annual plans \
+50% off on annual plans
 
 **OPSWAT** - Critical Infrastructure security courses \
 https://opswatacademy.com/courses \
@@ -118,7 +118,8 @@ https://engineer.cloudsecbooks.com/ \
 
 **Hak5** - Pentester / Red Teamer Hardware Equipment and Tools \
 https://shop.hak5.org/collections/bfcm \
-Up to 58% off, stackable savings, various items!! Do not forget stackable code: H4K3DNOV25
+Up to 58% off, stackable savings, various items!! \
+Do not forget stackable code: H4K3DNOV25
 
 **KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices \
 https://labs.ksec.co.uk/black-friday-sale/ \
@@ -135,9 +136,9 @@ Deal valid: 16th November - 6rd December
 
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
 https://proton.me/black-friday \
-38% off Lumo AI
-50% off Mail, Drive or Proton Unlimited
-60% off Pass
+38% off Lumo AI \
+50% off Mail, Drive or Proton Unlimited \
+60% off Pass \
 70% off VPN
 
 -----------------------------------------------------------------------------------------
