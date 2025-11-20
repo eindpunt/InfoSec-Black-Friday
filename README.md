@@ -177,6 +177,11 @@ https://training.whiteknightlabs.com/
 Black Friday sale: 50% off all training and certification courses; lifetime access to purchased content, discount applied automatically at checkout \
 Source: https://www.linkedin.com/posts/white-knight-labs_this-black-friday-were-not-just-running-activity-7396887666300198912-tfn0 
 
+**WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
+https://academy.wifichallenge.com \
+25% off on CWP and Exam (NO COUPON REQUIRED) \
+Deal ends: December 1st, 2025
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
