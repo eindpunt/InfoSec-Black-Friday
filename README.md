@@ -115,6 +115,12 @@ Deal ends: 5th December \
 https://app.letsdefend.io/pricing/  
 50% off on annual plans \
 
+**Mobile Hacking Lab** - Offensive Mobile Security Trainings \
+https://www.mobilehackinglab.com/appsec-aah  
+Buy 1, Get 2 Free. 60% Off. Get the Advanced Android Hacking course taught by multi-year Pwn2Own winner Ken Gannon, plus the CAPT Android and CIPT iOS certification exams at no extra cost. \
+https://www.mobilehackinglab.com/bundle/android-kernel-userland  
+60% Off when you bundle the two Advanced Android courses: Android Userland + Kernel Fuzzing and Exploitation. \
+
 **OffSec – Learn One subscription promo** \
 https://www.offsec.com/blog/learn-one-promo/  
 Save 20% (up to $550 off) on the Learn One annual subscription; discount is automatically applied at checkout, no code required \
