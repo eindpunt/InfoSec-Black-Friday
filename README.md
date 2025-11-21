@@ -271,6 +271,12 @@ http://fullstro.com/black-friday-deals/
 70% off all plans \
 Deal valid: 16th November - 6rd December
 
+**Grammarly Pro** – AI-powered writing assistant for clarity, originality, and authenticity \
+https://www.grammarly.com/  
+Grammarly Free helps you avoid mistakes, while Grammarly Pro adds AI agents like Paraphraser and Humanizer so you can express ideas in your own voice, plus Plagiarism Checker and AI Detector to ensure your work reflects your thinking, not someone else’s \
+Get 50% off the annual Pro plan and write with the confidence to stand behind every word \
+
+
 **PortDroid** - Port Scanner and Swiss Army Knife of Network Security Tools for Android \
 https://portdroid.net/black-friday-2025/  
 >50% off lifetime version with code: `CYBER_2025` \
