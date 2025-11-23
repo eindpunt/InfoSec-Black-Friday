@@ -169,13 +169,13 @@ OT Security Expert: https://opswatacademy.com/courses/ot-security-expert
 **Pluralsight** – Online Tech Learning Platform \
 https://www.pluralsight.com/  \
 `comeback60` 60% off \
-Deal valid till 31 December 2025 \
+Deal valid till 31 December 2025
 
 **Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
 https://www.practical-devsecops.com/black-friday/  \
 15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
 (Enroll Now and Study Later) \
-Deal ends: 7th December 2025 \
+Deal ends: 7th December 2025
 
 **Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
 https://classes.pracnet.net/courses/practical-tls  \
@@ -186,7 +186,7 @@ Deal ends: 7th December 2025 \
 **pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
 https://pwn.guide/  \
 20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
-Deal ends: 5th December \
+Deal ends: 5th December
 
 **SOC ANALYST - CYBERSECURITY BEGINNERS**, Accessible and Affordable Q-Model Platform, currently 14 (two more in the pipeline) courses with hands-on projects, labs and cyberange. \
 https://www.cybernoweducation.com/  
@@ -232,6 +232,10 @@ Deal valid until 1st December 2025
 https://pentestingexams.com/ \
 80% off on all pentesting exams. Use code: BF-80 \
 Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
+
+**Certified Cybersecurity Educator Professional (CCEP)** - Cybershield \
+https://courses.redteamleaders.com/exams/b442ad36-44fe-4b6f-99f5-fd6f7ddbb4b4 \
+100% off using code: `CCEP100OFF`
 
 ## Mini Courses
 
